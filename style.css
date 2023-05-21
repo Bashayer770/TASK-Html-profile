@@ -1,10 +1,12 @@
 .name {
-background-color: antiquewhite;
+  background-color: rgb(0, 179, 255);
+  color: rgb(255, 255, 255);
 }
 .hobbies {
-    background-color: azure;
+  background-color: rgb(248, 148, 255);
+  color: azure;
 }
-.media { 
-    background-color: black;
-    color: white;
+.media {
+  background-color: rgb(38, 255, 0);
+  color: white;
 }
